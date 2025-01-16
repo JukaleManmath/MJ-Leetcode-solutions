@@ -127,7 +127,7 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
 
 - Email: jukalemanmath@gmail.com
 - GitHub: JukaleManmath
-
+- App link: https://mj-leetcode-solutions.vercel.app
 ---
 
 
