@@ -125,7 +125,7 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
 
 - For any queries or suggestions, feel free to reach out at:
 
-- Email: manmath.jukale@example.com
+- Email: jukalemanmath@gmail.com
 - GitHub: JukaleManmath
 
 ---
