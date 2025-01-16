@@ -47,14 +47,20 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
    git clone https://github.com/<your-username>/MJ-Leetcode-solutions.git
    cd MJ-Leetcode-solutions
 2. **Install Dependencies** :
-    ```npm install
-Run the Development Server:
-npm run dev
-Build for Production:
-npm run build
-Deployment
+    ```bash
+    npm install
+    
+3. **Run the Development Server**:
+   ```bash
+   npm run dev
+4. **Build for Production**:
+  ```bash
+   npm run build```
 
-Vercel:
+
+### **Deployment**
+
+1. **Vercel**:
 Import the repository into Vercel.
 Set the Build Command to vite build.
 Set the Output Directory to dist.
