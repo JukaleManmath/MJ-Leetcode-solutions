@@ -46,6 +46,7 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
    ```bash
    git clone https://github.com/<your-username>/MJ-Leetcode-solutions.git
    cd MJ-Leetcode-solutions
+   
 2. **Install Dependencies** :
     ```bash
     npm install
@@ -82,19 +83,19 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
  ```
 
 ### **Project Structure**
-
-src/
-├── components/
-│   ├── Navbar.jsx            # Navigation bar
-│   ├── SolutionList.jsx      # Displays the list of problems
-│   ├── SolutionDetail.jsx    # Renders problem statements and solutions
-├── images/                   # Background images
-├── services/
-│   └── github.js             # GitHub API integration
-├── index.css                 # Global styles
-├── main.jsx                  # React entry point
-vite.config.js                # Vite configuration
-
+   ```bash
+   src/
+   ├── components/
+   │   ├── Navbar.jsx            # Navigation bar
+   │   ├── SolutionList.jsx      # Displays the list of problems
+   │   ├── SolutionDetail.jsx    # Renders problem statements and solutions
+   ├── images/                   # Background images
+   ├── services/
+   │   └── github.js             # GitHub API integration
+   ├── index.css                 # Global styles
+   ├── main.jsx                  # React entry point
+   vite.config.js                # Vite configuration
+   ```
 
 ## **Screenshots**
 
