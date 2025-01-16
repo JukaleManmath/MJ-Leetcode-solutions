@@ -56,38 +56,32 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
 4. **Build for Production**:
   ```bash
    npm run build
-
+  ```
 
 ### **Deployment**
 
 1. **Vercel**:
-Import the repository into Vercel.
-Set the Build Command to vite build.
-Set the Output Directory to dist.
-Netlify:
-Connect the repository in Netlify.
-Set the Build Command to vite build.
-Set the Publish Directory to dist.
-GitHub Pages:
-Install the gh-pages package:
-npm install gh-pages --save-dev
-Add the following scripts to package.json:
-"scripts": {
-  "predeploy": "vite build",
-  "deploy": "gh-pages -d dist"
-}
-Deploy:
-npm run deploy
-Firebase Hosting:
-Install the Firebase CLI:
-npm install -g firebase-tools
-Initialize Firebase Hosting:
-firebase init hosting
-Build the project:
-npm run build
-Deploy:
-firebase deploy
-Project Structure
+  - Import the repository into Vercel.
+  - Set the Build Command to vite build.
+  - Set the Output Directory to dist.
+2. **Netlify**:
+  - Connect the repository in Netlify.
+  - Set the Build Command to vite build.
+  - Set the Publish Directory to dist.
+3.**GitHub Pages**:
+  - Install the gh-pages package:
+    ```bash
+    npm install gh-pages --save-dev
+    ```
+  - Add the following scripts to package.json:
+   ```bash
+     "scripts": {
+        "predeploy": "vite build",
+        "deploy": "gh-pages -d dist"
+      }
+ ```
+
+### **Project Structure**
 
 src/
 ├── components/
@@ -100,10 +94,20 @@ src/
 ├── index.css                 # Global styles
 ├── main.jsx                  # React entry point
 vite.config.js                # Vite configuration
-Screenshots
 
-Home Page
-Problem Detail
+
+## **Screenshots**
+
+**Home Page**
+
+![Screenshot 2025-01-15 at 10 31 49 PM](https://github.com/user-attachments/assets/4b548861-57bf-49ae-9db8-6543c4a073f7)
+![Screenshot![Screenshot 2025-01-15 at 10 32 40 PM](https://github.com/user-attachments/assets/d4b0d87e-bd26-47b6-b809-e9588e5b2dc6) 
+
+**Problem Detail**
+ 2025-01-15 at 10 32 08 PM](https://github.com/user-attachments/assets/010844ee-1344-4a02-b88a-d42e642a2c34)
+
+
+
 Future Enhancements
 
 🌟 Add dark mode for better user experience.
