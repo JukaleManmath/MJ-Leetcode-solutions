@@ -101,10 +101,10 @@ vite.config.js                # Vite configuration
 **Home Page**
 
 ![Screenshot 2025-01-15 at 10 31 49 PM](https://github.com/user-attachments/assets/4b548861-57bf-49ae-9db8-6543c4a073f7)
+**Problem Detail**
 ![Screenshot 2025-01-15 at 10 32 40 PM](https://github.com/user-attachments/assets/d4b0d87e-bd26-47b6-b809-e9588e5b2dc6) 
 
-**Problem Detail**
- ![Screenshot 2025-01-15 at 10 32 08 PM](https://github.com/user-attachments/assets/010844ee-1344-4a02-b88a-d42e642a2c34)
+![Screenshot 2025-01-15 at 10 32 08 PM](https://github.com/user-attachments/assets/010844ee-1344-4a02-b88a-d42e642a2c34)
 
 
 ## **Future Enhancements**
