@@ -55,7 +55,7 @@ Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web appl
    npm run dev
 4. **Build for Production**:
   ```bash
-   npm run build```
+   npm run build
 
 
 ### **Deployment**
