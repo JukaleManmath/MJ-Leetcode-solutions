@@ -1,4 +1,4 @@
-# **Leetcode Solutions Page**
+# **LeetPortfolio**
 
 Welcome to the **Leetcode Solutions Page**, a dynamic and user-friendly web application to showcase your Leetcode problem-solving journey. Built with React and Vite, this project fetches solutions directly from your GitHub repository and provides an interactive and aesthetic interface for users to explore problem statements and solutions.
 
