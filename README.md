@@ -101,51 +101,34 @@ vite.config.js                # Vite configuration
 **Home Page**
 
 ![Screenshot 2025-01-15 at 10 31 49 PM](https://github.com/user-attachments/assets/4b548861-57bf-49ae-9db8-6543c4a073f7)
-![Screenshot![Screenshot 2025-01-15 at 10 32 40 PM](https://github.com/user-attachments/assets/d4b0d87e-bd26-47b6-b809-e9588e5b2dc6) 
+[Screenshot 2025-01-15 at 10 32 40 PM](https://github.com/user-attachments/assets/d4b0d87e-bd26-47b6-b809-e9588e5b2dc6) 
 
 **Problem Detail**
- 2025-01-15 at 10 32 08 PM](https://github.com/user-attachments/assets/010844ee-1344-4a02-b88a-d42e642a2c34)
+ [Screenshot 2025-01-15 at 10 32 08 PM](https://github.com/user-attachments/assets/010844ee-1344-4a02-b88a-d42e642a2c34)
+
+
+## **Future Enhancements**
+
+- 🌟 Add dark mode for better user experience.
+- 🔍 Implement search and filter functionality for faster access to problems.
+- 📊 Display solution statistics (e.g., time complexity, space complexity).
+- 🚀 Support for additional file types like .java and .js.
 
 
 
-Future Enhancements
+## **License**
 
-🌟 Add dark mode for better user experience.
-🔍 Implement search and filter functionality for faster access to problems.
-📊 Display solution statistics (e.g., time complexity, space complexity).
-🚀 Support for additional file types like .java and .js.
-Contributing
+- This project is licensed under the MIT License.
 
-We welcome contributions! Here's how you can help:
+## **Contact**
 
-Fork the repository.
-Create a new branch:
-git checkout -b feature-name
-Commit your changes:
-git commit -m "Add new feature"
-Push to your branch:
-git push origin feature-name
-Open a pull request.
-License
+- For any queries or suggestions, feel free to reach out at:
 
-This project is licensed under the MIT License.
-
-Contact
-
-For any queries or suggestions, feel free to reach out at:
-
-Email: manmath.jukale@example.com
-GitHub: JukaleManmath
+- Email: manmath.jukale@example.com
+- GitHub: JukaleManmath
 
 ---
 
-### **Features of this README**
-- Fully formatted with proper Markdown syntax.
-- Includes setup instructions, technologies, and deployment options.
-- Highlights project features, structure, and future enhancements.
-- Screenshots and contribution guide are placeholders—replace with actual details.
-
-Let me know if you'd like any changes! 🚀
 
 
 
